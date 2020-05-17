@@ -1,5 +1,5 @@
 {
-  "name": "@raydeck/remove-stacks",
+  "name": "@raydeck/remove-aws-stacks",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

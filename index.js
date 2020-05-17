@@ -5,14 +5,26 @@ commander.option(
   "AWS Region",
   process.env["AWS_REGION"] || "us-east-1"
 );
-commander.command("list").action(async ({ parent: { region } }) => {
-  const s3 = new S3({ region });
-  const { Buckets } = await s3.listBuckets().promise();
-  const prefixes = Buckets.map(({ Name }) => Name.split("-").shift());
-  const prefixesset = new Set(prefixes);
-  const prefixesunique = Array.from(prefixesset);
-  console.log(JSON.stringify(prefixesunique, null, 2));
-});
+commander
+  .command("list")
+  .description("List prefixes (part before the first dash -")
+  .action(async ({ parent: { region } }) => {
+    const cf = new CloudFormation({ region });
+    const allSS = [];
+    let NextToken = null;
+    do {
+      const { StackSummaries, NextToken: nt } = await cf
+        .listStacks({ NextToken })
+        .promise();
+      allSS.push(...StackSummaries);
+      NextToken = nt;
+    } while (NextToken);
+    const names = allSS
+      .filter(({ StackStatus }) => StackStatus !== "DELETE_COMPLETE")
+      .map(({ StackName }) => StackName);
+    const prefixes = new Set(names.map((name) => name.split("-").shift()));
+    console.log(JSON.stringify(Array.from(prefixes).sort(), null, 2));
+  });
 commander
   .command("delete <prefix>")
   .action(async (prefix, { parent: { region } }) => {
