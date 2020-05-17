@@ -1,0 +1,439 @@
+Starting now 2020-05-17T01:00:06.188Z
+prefixes are Set {
+  'amplify',
+  'bob',
+  'bundlebase',
+  'cf',
+  'coreml',
+  'droid',
+  'e1',
+  'epsagoncloudformation',
+  'eventscheduler',
+  'fiverr',
+  'logging',
+  'migration',
+  'pc',
+  'pcmd',
+  'pcmd2',
+  'pcmd3',
+  'privilege',
+  'raytestt',
+  'refactor',
+  'rhd',
+  'rhdtest',
+  'rhdtest2',
+  'rhdtest3',
+  'rhdtest5',
+  'rhdtest6',
+  'rhdtest7',
+  'rhdtest8',
+  'staging',
+  't48',
+  't51',
+  't53',
+  't58',
+  't63',
+  't66',
+  't67',
+  't69',
+  't70',
+  'tesfa',
+  'tesfa10',
+  'tesfa11',
+  'tesfa12',
+  'tesfa2',
+  'tesfa4',
+  'tesfa5',
+  'tesfa8',
+  'tesfa9',
+  'test',
+  'test2x',
+  'tt',
+  'twilio',
+  'v2',
+  'wi',
+  'widdb'
+}
+[
+  'e1-admin-backend-dev-serverlessdeploymentbucket-wedy4esd6o2b',
+  'e1-admin-static-dev-serverlessdeploymentbucket-13o2m9g8pd48o',
+  'e1-admin.certitude.tech',
+  'e1-clio-dev-serverlessdeploymentbucket-1kiewfag86szf',
+  'e1-clio-static-dev-serverlessdeploymentbucket-1wlrkhbc7s687',
+  'e1-clio.certitude.tech',
+  'e1-cognito-dev-serverlessdeploymentbucket-6bdd3862vuvf',
+  'e1-cognito-lambdas-dev-serverlessdeploymentbucket-17z4ur22wgjtw',
+  'e1-counselor-static-dev-serverlessdeploymentbucke-1fzh8axnw9ago',
+  'e1-counselor-web-dev-serverlessdeploymentbucket-9jbs0y4kcsch',
+  'e1-counselor.certitude.tech',
+  'e1-event-scheduler-dev-serverlessdeploymentbucket-1i74d9twcvhlu',
+  'e1-privilege-2-dev-serverlessdeploymentbucket-tzyydhdkjfr2',
+  'e1-privilege-static-dev-serverlessdeploymentbucke-1cnr9eyvnpwxr',
+  'e1-privilege.certitude.tech',
+  'e1-storage-dev-serverlessdeploymentbucket-7nki20jfld90',
+  'e1-v2-backend-dev-serverlessdeploymentbucket-pbz85uhx91au'
+]
+WIll delete  e1-admin-backend-dev-serverlessdeploymentbucket-wedy4esd6o2b serverless/e1-admin-backend/dev/1573939483096-2019-11-16T21:24:43.096Z/compiled-cloudformation-template.json
+WIll delete  e1-admin-backend-dev-serverlessdeploymentbucket-wedy4esd6o2b serverless/e1-admin-backend/dev/1573939483096-2019-11-16T21:24:43.096Z/e1-admin-backend.zip
+Will delete bucket e1-admin-backend-dev-serverlessdeploymentbucket-wedy4esd6o2b
+WIll delete  e1-admin-static-dev-serverlessdeploymentbucket-13o2m9g8pd48o serverless/e1-admin-static/dev/1573944829482-2019-11-16T22:53:49.482Z/compiled-cloudformation-template.json
+Will delete bucket e1-admin-static-dev-serverlessdeploymentbucket-13o2m9g8pd48o
+WIll delete  e1-admin.certitude.tech asset-manifest.json
+WIll delete  e1-admin.certitude.tech favicon.ico
+WIll delete  e1-admin.certitude.tech index.html
+WIll delete  e1-admin.certitude.tech precache-manifest.6bf859dbe63fb7a9e88eeeb2835f15bd.js
+WIll delete  e1-admin.certitude.tech service-worker.js
+WIll delete  e1-admin.certitude.tech static/css/2.03870d65.chunk.css
+WIll delete  e1-admin.certitude.tech static/css/2.03870d65.chunk.css.map
+WIll delete  e1-admin.certitude.tech static/css/main.34de6062.chunk.css
+WIll delete  e1-admin.certitude.tech static/css/main.34de6062.chunk.css.map
+WIll delete  e1-admin.certitude.tech static/js/2.54f2ddc4.chunk.js
+WIll delete  e1-admin.certitude.tech static/js/2.54f2ddc4.chunk.js.map
+WIll delete  e1-admin.certitude.tech static/js/main.6d7199ad.chunk.js
+WIll delete  e1-admin.certitude.tech static/js/main.6d7199ad.chunk.js.map
+WIll delete  e1-admin.certitude.tech static/js/runtime~main.a8a9905a.js
+WIll delete  e1-admin.certitude.tech static/js/runtime~main.a8a9905a.js.map
+WIll delete  e1-admin.certitude.tech static/media/privilegebase.f6e8a93e.png
+WIll delete  e1-admin.certitude.tech static/media/privilegebase_inverted.d07fcebd.png
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-100.987b8457.woff2
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-100.e9dbbe8a.woff
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-100italic.6232f43d.woff2
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-100italic.d704bb3d.woff
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-300.55536c8e.woff2
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-300.a1471d1d.woff
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-300italic.210a7c78.woff
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-300italic.d69924b9.woff2
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-400.5d4aeb4e.woff2
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-400.bafb105b.woff
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-400italic.9680d5a0.woff
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-400italic.d8bcbe72.woff2
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-500.28546717.woff2
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-500.de8b7431.woff
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-500italic.510dec37.woff2
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-500italic.ffcc050b.woff
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-700.037d8304.woff2
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-700.cf6613d1.woff
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-700italic.010c1aee.woff2
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-700italic.846d1890.woff
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-900.19b7a0ad.woff2
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-900.8c2ade50.woff
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-900italic.7b770d6c.woff2
+WIll delete  e1-admin.certitude.tech static/media/roboto-latin-900italic.bc833e72.woff
+Will delete bucket e1-admin.certitude.tech
+WIll delete  e1-clio-dev-serverlessdeploymentbucket-1kiewfag86szf serverless/e1-clio/dev/1573939833388-2019-11-16T21:30:33.388Z/compiled-cloudformation-template.json
+WIll delete  e1-clio-dev-serverlessdeploymentbucket-1kiewfag86szf serverless/e1-clio/dev/1573939833388-2019-11-16T21:30:33.388Z/e1-clio.zip
+Will delete bucket e1-clio-dev-serverlessdeploymentbucket-1kiewfag86szf
+WIll delete  e1-clio-static-dev-serverlessdeploymentbucket-1wlrkhbc7s687 serverless/e1-clio-static/dev/1573940324639-2019-11-16T21:38:44.639Z/compiled-cloudformation-template.json
+Will delete bucket e1-clio-static-dev-serverlessdeploymentbucket-1wlrkhbc7s687
+WIll delete  e1-clio.certitude.tech asset-manifest.json
+WIll delete  e1-clio.certitude.tech favicon.ico
+WIll delete  e1-clio.certitude.tech index.html
+WIll delete  e1-clio.certitude.tech precache-manifest.9143e948fce245c1fff036d467335d1e.js
+WIll delete  e1-clio.certitude.tech service-worker.js
+WIll delete  e1-clio.certitude.tech static/css/2.8271af8e.chunk.css
+WIll delete  e1-clio.certitude.tech static/css/2.8271af8e.chunk.css.map
+WIll delete  e1-clio.certitude.tech static/js/2.ed0eaeaf.chunk.js
+WIll delete  e1-clio.certitude.tech static/js/2.ed0eaeaf.chunk.js.map
+WIll delete  e1-clio.certitude.tech static/js/main.02550e21.chunk.js
+WIll delete  e1-clio.certitude.tech static/js/main.02550e21.chunk.js.map
+WIll delete  e1-clio.certitude.tech static/js/runtime~main.08cfe055.js
+WIll delete  e1-clio.certitude.tech static/js/runtime~main.08cfe055.js.map
+WIll delete  e1-clio.certitude.tech static/media/clio.65f3fc34.svg
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-100.5cb7edfc.woff
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-100.7370c367.woff2
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-100italic.f8b1df51.woff2
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-100italic.f9e8e590.woff
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-300.b00849e0.woff
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-300.ef7c6637.woff2
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-300italic.14286f3b.woff2
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-300italic.4df32891.woff
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-400.479970ff.woff2
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-400.60fa3c06.woff
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-400italic.51521a2a.woff2
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-400italic.fe65b833.woff
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-500.020c97dc.woff2
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-500.87284894.woff
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-500italic.288ad9c6.woff
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-500italic.db4a2a23.woff2
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-700.2735a3a6.woff2
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-700.adcde98f.woff
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-700italic.81f57861.woff
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-700italic.da0e7178.woff2
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-900.9b3766ef.woff2
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-900.bb1e4dc6.woff
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-900italic.28f91510.woff
+WIll delete  e1-clio.certitude.tech static/media/roboto-latin-900italic.ebf6d164.woff2
+Will delete bucket e1-clio.certitude.tech
+WIll delete  e1-cognito-dev-serverlessdeploymentbucket-6bdd3862vuvf serverless/e1-cognito/dev/1573938654564-2019-11-16T21:10:54.564Z/compiled-cloudformation-template.json
+Will delete bucket e1-cognito-dev-serverlessdeploymentbucket-6bdd3862vuvf
+WIll delete  e1-cognito-lambdas-dev-serverlessdeploymentbucket-17z4ur22wgjtw serverless/e1-cognito-lambdas/dev/1573938567717-2019-11-16T21:09:27.717Z/compiled-cloudformation-template.json
+WIll delete  e1-cognito-lambdas-dev-serverlessdeploymentbucket-17z4ur22wgjtw serverless/e1-cognito-lambdas/dev/1573938567717-2019-11-16T21:09:27.717Z/e1-cognito-lambdas.zip
+Will delete bucket e1-cognito-lambdas-dev-serverlessdeploymentbucket-17z4ur22wgjtw
+WIll delete  e1-counselor-static-dev-serverlessdeploymentbucke-1fzh8axnw9ago serverless/e1-counselor-static/dev/1573941793300-2019-11-16T22:03:13.300Z/compiled-cloudformation-template.json
+WIll delete  e1-counselor-static-dev-serverlessdeploymentbucke-1fzh8axnw9ago serverless/e1-counselor-static/dev/1574640787804-2019-11-25T00:13:07.804Z/compiled-cloudformation-template.json
+WIll delete  e1-counselor-static-dev-serverlessdeploymentbucke-1fzh8axnw9ago serverless/e1-counselor-static/dev/1574641553933-2019-11-25T00:25:53.933Z/compiled-cloudformation-template.json
+Will delete bucket e1-counselor-static-dev-serverlessdeploymentbucke-1fzh8axnw9ago
+WIll delete  e1-counselor-web-dev-serverlessdeploymentbucket-9jbs0y4kcsch serverless/e1-counselor-web/dev/1574559439369-2019-11-24T01:37:19.369Z/compiled-cloudformation-template.json
+WIll delete  e1-counselor-web-dev-serverlessdeploymentbucket-9jbs0y4kcsch serverless/e1-counselor-web/dev/1574559439369-2019-11-24T01:37:19.369Z/e1-counselor-web.zip
+WIll delete  e1-counselor-web-dev-serverlessdeploymentbucket-9jbs0y4kcsch serverless/e1-counselor-web/dev/1574642581415-2019-11-25T00:43:01.415Z/compiled-cloudformation-template.json
+WIll delete  e1-counselor-web-dev-serverlessdeploymentbucket-9jbs0y4kcsch serverless/e1-counselor-web/dev/1574642581415-2019-11-25T00:43:01.415Z/e1-counselor-web.zip
+WIll delete  e1-counselor-web-dev-serverlessdeploymentbucket-9jbs0y4kcsch serverless/e1-counselor-web/dev/1574692385900-2019-11-25T14:33:05.900Z/compiled-cloudformation-template.json
+WIll delete  e1-counselor-web-dev-serverlessdeploymentbucket-9jbs0y4kcsch serverless/e1-counselor-web/dev/1574692385900-2019-11-25T14:33:05.900Z/e1-counselor-web.zip
+WIll delete  e1-counselor-web-dev-serverlessdeploymentbucket-9jbs0y4kcsch serverless/e1-counselor-web/dev/1574700285980-2019-11-25T16:44:45.980Z/compiled-cloudformation-template.json
+WIll delete  e1-counselor-web-dev-serverlessdeploymentbucket-9jbs0y4kcsch serverless/e1-counselor-web/dev/1574700285980-2019-11-25T16:44:45.980Z/e1-counselor-web.zip
+WIll delete  e1-counselor-web-dev-serverlessdeploymentbucket-9jbs0y4kcsch serverless/e1-counselor-web/dev/1574701274748-2019-11-25T17:01:14.748Z/compiled-cloudformation-template.json
+WIll delete  e1-counselor-web-dev-serverlessdeploymentbucket-9jbs0y4kcsch serverless/e1-counselor-web/dev/1574701274748-2019-11-25T17:01:14.748Z/e1-counselor-web.zip
+Will delete bucket e1-counselor-web-dev-serverlessdeploymentbucket-9jbs0y4kcsch
+WIll delete  e1-counselor.certitude.tech asset-manifest.json
+WIll delete  e1-counselor.certitude.tech favicon.ico
+WIll delete  e1-counselor.certitude.tech index.html
+WIll delete  e1-counselor.certitude.tech manifest.json
+WIll delete  e1-counselor.certitude.tech precache-manifest.50f2d7af4ddf687b21bfb1a2b74f5e0f.js
+WIll delete  e1-counselor.certitude.tech service-worker.js
+WIll delete  e1-counselor.certitude.tech static/css/2.a1fcd524.chunk.css
+WIll delete  e1-counselor.certitude.tech static/css/2.a1fcd524.chunk.css.map
+WIll delete  e1-counselor.certitude.tech static/css/main.34de6062.chunk.css
+WIll delete  e1-counselor.certitude.tech static/css/main.34de6062.chunk.css.map
+WIll delete  e1-counselor.certitude.tech static/js/2.c831a43d.chunk.js
+WIll delete  e1-counselor.certitude.tech static/js/2.c831a43d.chunk.js.map
+WIll delete  e1-counselor.certitude.tech static/js/main.f14ca94f.chunk.js
+WIll delete  e1-counselor.certitude.tech static/js/main.f14ca94f.chunk.js.map
+WIll delete  e1-counselor.certitude.tech static/js/runtime~main.a8a9905a.js
+WIll delete  e1-counselor.certitude.tech static/js/runtime~main.a8a9905a.js.map
+WIll delete  e1-counselor.certitude.tech static/media/privilegebase.f6e8a93e.png
+WIll delete  e1-counselor.certitude.tech static/media/privilegebase_inverted.d07fcebd.png
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-100.987b8457.woff2
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-100.e9dbbe8a.woff
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-100italic.6232f43d.woff2
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-100italic.d704bb3d.woff
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-300.55536c8e.woff2
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-300.a1471d1d.woff
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-300italic.210a7c78.woff
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-300italic.d69924b9.woff2
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-400.5d4aeb4e.woff2
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-400.bafb105b.woff
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-400italic.9680d5a0.woff
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-400italic.d8bcbe72.woff2
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-500.28546717.woff2
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-500.de8b7431.woff
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-500italic.510dec37.woff2
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-500italic.ffcc050b.woff
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-700.037d8304.woff2
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-700.cf6613d1.woff
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-700italic.010c1aee.woff2
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-700italic.846d1890.woff
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-900.19b7a0ad.woff2
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-900.8c2ade50.woff
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-900italic.7b770d6c.woff2
+WIll delete  e1-counselor.certitude.tech static/media/roboto-latin-900italic.bc833e72.woff
+Will delete bucket e1-counselor.certitude.tech
+WIll delete  e1-event-scheduler-dev-serverlessdeploymentbucket-1i74d9twcvhlu serverless/e1-event-scheduler/dev/1573938751238-2019-11-16T21:12:31.238Z/compiled-cloudformation-template.json
+WIll delete  e1-event-scheduler-dev-serverlessdeploymentbucket-1i74d9twcvhlu serverless/e1-event-scheduler/dev/1573938751238-2019-11-16T21:12:31.238Z/e1-event-scheduler.zip
+Will delete bucket e1-event-scheduler-dev-serverlessdeploymentbucket-1i74d9twcvhlu
+WIll delete  e1-privilege-2-dev-serverlessdeploymentbucket-tzyydhdkjfr2 serverless/e1-privilege-2/dev/1573943492867-2019-11-16T22:31:32.867Z/compiled-cloudformation-template.json
+WIll delete  e1-privilege-2-dev-serverlessdeploymentbucket-tzyydhdkjfr2 serverless/e1-privilege-2/dev/1573943492867-2019-11-16T22:31:32.867Z/e1-privilege-2.zip
+WIll delete  e1-privilege-2-dev-serverlessdeploymentbucket-tzyydhdkjfr2 serverless/e1-privilege-2/dev/1573944489230-2019-11-16T22:48:09.230Z/compiled-cloudformation-template.json
+WIll delete  e1-privilege-2-dev-serverlessdeploymentbucket-tzyydhdkjfr2 serverless/e1-privilege-2/dev/1573944489230-2019-11-16T22:48:09.230Z/e1-privilege-2.zip
+WIll delete  e1-privilege-2-dev-serverlessdeploymentbucket-tzyydhdkjfr2 serverless/e1-privilege-2/dev/1573945219149-2019-11-16T23:00:19.149Z/compiled-cloudformation-template.json
+WIll delete  e1-privilege-2-dev-serverlessdeploymentbucket-tzyydhdkjfr2 serverless/e1-privilege-2/dev/1573945219149-2019-11-16T23:00:19.149Z/e1-privilege-2.zip
+WIll delete  e1-privilege-2-dev-serverlessdeploymentbucket-tzyydhdkjfr2 serverless/e1-privilege-2/dev/1573945640921-2019-11-16T23:07:20.921Z/compiled-cloudformation-template.json
+WIll delete  e1-privilege-2-dev-serverlessdeploymentbucket-tzyydhdkjfr2 serverless/e1-privilege-2/dev/1573945640921-2019-11-16T23:07:20.921Z/e1-privilege-2.zip
+WIll delete  e1-privilege-2-dev-serverlessdeploymentbucket-tzyydhdkjfr2 serverless/e1-privilege-2/dev/1574701451659-2019-11-25T17:04:11.659Z/compiled-cloudformation-template.json
+WIll delete  e1-privilege-2-dev-serverlessdeploymentbucket-tzyydhdkjfr2 serverless/e1-privilege-2/dev/1574701451659-2019-11-25T17:04:11.659Z/e1-privilege-2.zip
+Will delete bucket e1-privilege-2-dev-serverlessdeploymentbucket-tzyydhdkjfr2
+WIll delete  e1-privilege-static-dev-serverlessdeploymentbucke-1cnr9eyvnpwxr serverless/e1-privilege-static/dev/1573943224792-2019-11-16T22:27:04.792Z/compiled-cloudformation-template.json
+Will delete bucket e1-privilege-static-dev-serverlessdeploymentbucke-1cnr9eyvnpwxr
+WIll delete  e1-privilege.certitude.tech favicon.ico
+WIll delete  e1-privilege.certitude.tech manifest.json
+Will delete bucket e1-privilege.certitude.tech
+WIll delete  e1-storage-dev-serverlessdeploymentbucket-7nki20jfld90 serverless/e1-storage/dev/1573938453625-2019-11-16T21:07:33.625Z/compiled-cloudformation-template.json
+Will delete bucket e1-storage-dev-serverlessdeploymentbucket-7nki20jfld90
+WIll delete  e1-v2-backend-dev-serverlessdeploymentbucket-pbz85uhx91au serverless/e1-v2-backend/dev/1573938973547-2019-11-16T21:16:13.547Z/compiled-cloudformation-template.json
+WIll delete  e1-v2-backend-dev-serverlessdeploymentbucket-pbz85uhx91au serverless/e1-v2-backend/dev/1573938973547-2019-11-16T21:16:13.547Z/e1-v2-backend.zip
+Will delete bucket e1-v2-backend-dev-serverlessdeploymentbucket-pbz85uhx91au
+I will get rid of these stacks [
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/e1-admin-static-dev/f451d4f0-08c3-11ea-9de0-0e3edd8361ed',
+    StackName: 'e1-admin-static-dev',
+    TemplateDescription: 'The AWS CloudFormation template for this Serverless application',
+    CreationTime: 2019-11-16T22:53:49.944Z,
+    LastUpdatedTime: 2019-11-16T22:54:22.868Z,
+    DeletionTime: 2020-05-16T23:38:12.895Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [StaticSite, ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  },
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/e1-privilege-static-dev/37d28cf0-08c0-11ea-82cf-12b6a099270b',
+    StackName: 'e1-privilege-static-dev',
+    TemplateDescription: 'The AWS CloudFormation template for this Serverless application',
+    CreationTime: 2019-11-16T22:27:05.209Z,
+    LastUpdatedTime: 2019-11-16T22:27:37.787Z,
+    DeletionTime: 2020-05-16T23:38:18.443Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [StaticSite, ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  },
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/e1-counselor-static-dev/e2980970-08bc-11ea-b420-12b57bb5da09',
+    StackName: 'e1-counselor-static-dev',
+    TemplateDescription: 'The AWS CloudFormation template for this Serverless application',
+    CreationTime: 2019-11-16T22:03:13.731Z,
+    LastUpdatedTime: 2019-11-25T00:13:09.500Z,
+    DeletionTime: 2020-05-16T23:38:25.349Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [StaticSite, ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  },
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/e1-clio-static-dev/77327970-08b9-11ea-81e4-0a4f04019892',
+    StackName: 'e1-clio-static-dev',
+    TemplateDescription: 'The AWS CloudFormation template for this Serverless application',
+    CreationTime: 2019-11-16T21:38:45.052Z,
+    LastUpdatedTime: 2019-11-16T21:39:23.647Z,
+    DeletionTime: 2020-05-16T23:38:32.048Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [StaticSite, ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  },
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/e1-clio-dev/526f1e00-08b8-11ea-b57e-0ed5356bca17',
+    StackName: 'e1-clio-dev',
+    TemplateDescription: 'The AWS CloudFormation template for this Serverless application',
+    CreationTime: 2019-11-16T21:30:33.873Z,
+    LastUpdatedTime: 2019-11-16T21:31:21.389Z,
+    DeletionTime: 2020-05-16T23:38:38.730Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  },
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/e1-privilege-2-dev/ef850110-08b7-11ea-b38d-0a545e22b5be',
+    StackName: 'e1-privilege-2-dev',
+    TemplateDescription: 'The AWS CloudFormation template for this Serverless application',
+    CreationTime: 2019-11-16T21:27:47.934Z,
+    LastUpdatedTime: 2019-11-25T17:04:23.419Z,
+    DeletionTime: 2020-05-16T23:38:48.737Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  },
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/e1-admin-backend-dev/81aa4b00-08b7-11ea-a60f-0ed4cff9b69d',
+    StackName: 'e1-admin-backend-dev',
+    TemplateDescription: 'Privilege Administration Backend',
+    CreationTime: 2019-11-16T21:24:43.621Z,
+    LastUpdatedTime: 2019-11-16T21:25:26.861Z,
+    DeletionTime: 2020-05-16T23:38:54.916Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  },
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/e1-counselor-web-dev/dce18a20-08b6-11ea-934a-0abd62a7624a',
+    StackName: 'e1-counselor-web-dev',
+    TemplateDescription: 'The AWS CloudFormation template for this Serverless application',
+    CreationTime: 2019-11-16T21:20:07.160Z,
+    LastUpdatedTime: 2019-11-25T17:01:29.141Z,
+    DeletionTime: 2020-05-16T23:39:04.204Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  },
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/e1-v2-backend-dev/52739cc0-08b6-11ea-adb9-1204ddd846a2',
+    StackName: 'e1-v2-backend-dev',
+    TemplateDescription: 'The AWS CloudFormation template for this Serverless application',
+    CreationTime: 2019-11-16T21:16:14.916Z,
+    LastUpdatedTime: 2019-11-16T21:16:54.061Z,
+    DeletionTime: 2020-05-16T23:39:11.597Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  },
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/e1-event-scheduler-dev/cd6bfa90-08b5-11ea-acbb-0ec446493c7d',
+    StackName: 'e1-event-scheduler-dev',
+    TemplateDescription: 'The AWS CloudFormation template for this Serverless application',
+    CreationTime: 2019-11-16T21:12:31.728Z,
+    LastUpdatedTime: 2019-11-16T21:13:15.570Z,
+    DeletionTime: 2020-05-16T23:39:17.024Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  },
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/e1-cognito-dev/93c00840-08b5-11ea-b9b4-12a48490849f',
+    StackName: 'e1-cognito-dev',
+    TemplateDescription: 'Authorization for Privilege/Counselor',
+    CreationTime: 2019-11-16T21:10:54.979Z,
+    LastUpdatedTime: 2019-11-16T21:11:32.928Z,
+    DeletionTime: 2020-05-16T23:39:23.055Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  },
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/e1-cognito-lambdas-dev/5fff4890-08b5-11ea-80c8-12301089d57f',
+    StackName: 'e1-cognito-lambdas-dev',
+    TemplateDescription: 'Authorization for Trust Technologies Apps',
+    CreationTime: 2019-11-16T21:09:28.144Z,
+    LastUpdatedTime: 2019-11-16T21:10:06.684Z,
+    DeletionTime: 2020-05-16T23:39:28.766Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  },
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/e1-storage-dev/1c05b3e0-08b5-11ea-9a90-0eb5b83f8639',
+    StackName: 'e1-storage-dev',
+    TemplateDescription: 'Storage for Privilege/Counselor',
+    CreationTime: 2019-11-16T21:07:34.103Z,
+    LastUpdatedTime: 2019-11-16T21:08:12.253Z,
+    DeletionTime: 2020-05-16T23:39:34.515Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  }
+]
+output for deleting e1-admin-static-dev is  {
+  ResponseMetadata: { RequestId: 'c9b44a96-1c55-4692-8947-8dd75206c602' }
+}
+output for deleting e1-privilege-static-dev is  {
+  ResponseMetadata: { RequestId: 'f287fa69-a810-4b03-aaf3-b9d4979714c3' }
+}
+output for deleting e1-counselor-static-dev is  {
+  ResponseMetadata: { RequestId: '6e651650-ab2c-445d-9650-b8351b1c2334' }
+}
+output for deleting e1-clio-static-dev is  {
+  ResponseMetadata: { RequestId: 'bd1c4710-74d0-4434-9298-f4df2a422f47' }
+}
+output for deleting e1-clio-dev is  {
+  ResponseMetadata: { RequestId: '8ed16700-56c7-4187-8ba5-97681f61b312' }
+}
+output for deleting e1-privilege-2-dev is  {
+  ResponseMetadata: { RequestId: '2a88f8cf-c9a4-4483-aabf-672734cc90d8' }
+}
+output for deleting e1-admin-backend-dev is  {
+  ResponseMetadata: { RequestId: 'ea3ae8ec-a6a1-4e65-a472-ded1181adfe5' }
+}
+output for deleting e1-counselor-web-dev is  {
+  ResponseMetadata: { RequestId: '032799f1-d948-489f-b0fe-7c11007dc5f4' }
+}
+output for deleting e1-v2-backend-dev is  {
+  ResponseMetadata: { RequestId: 'b674c3bf-d028-470e-aa12-2e9c54b6f686' }
+}
+output for deleting e1-event-scheduler-dev is  {
+  ResponseMetadata: { RequestId: 'bbd990ce-825b-48fa-bc47-0ea6ac76239a' }
+}
+output for deleting e1-cognito-dev is  {
+  ResponseMetadata: { RequestId: '8dc14885-d1dc-46c9-9b48-48a55a269baa' }
+}
+output for deleting e1-cognito-lambdas-dev is  {
+  ResponseMetadata: { RequestId: '5bcbdec3-ac0a-48dc-9f66-da9d9ea1e395' }
+}
+output for deleting e1-storage-dev is  {
+  ResponseMetadata: { RequestId: 'fc245989-0bcc-445e-8b13-dbd2c08fb05a' }
+}
+Finished as of 2020-05-17T01:01:15.383Z
+Took ms:  69192

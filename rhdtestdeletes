@@ -1,0 +1,179 @@
+Starting now 2020-05-17T01:11:48.749Z
+prefixes are Set {
+  'amplify',
+  'bob',
+  'bundlebase',
+  'cf',
+  'coreml',
+  'droid',
+  'epsagoncloudformation',
+  'eventscheduler',
+  'fiverr',
+  'logging',
+  'migration',
+  'pc',
+  'pcmd',
+  'pcmd2',
+  'pcmd3',
+  'privilege',
+  'raytestt',
+  'refactor',
+  'rhd',
+  'rhdtest',
+  'rhdtest2',
+  'rhdtest3',
+  'rhdtest5',
+  'rhdtest6',
+  'rhdtest7',
+  'rhdtest8',
+  'staging',
+  't48',
+  't51',
+  't53',
+  't58',
+  't63',
+  't66',
+  't67',
+  't69',
+  't70',
+  'tesfa',
+  'tesfa10',
+  'tesfa11',
+  'tesfa12',
+  'tesfa2',
+  'tesfa4',
+  'tesfa5',
+  'tesfa8',
+  'tesfa9',
+  'test',
+  'test2x',
+  'tt',
+  'twilio',
+  'v2',
+  'wi',
+  'widdb'
+}
+[
+  'rhdtest-cognito-counselo-serverlessdeploymentbuck-bptlpzxaca1b',
+  'rhdtest-cognito-privileg-serverlessdeploymentbuck-15d9yefi9sv4q',
+  'rhdtest-counselor-dev-serverlessdeploymentbucket-zu3834om6r9u',
+  'rhdtest-privilege-dev-serverlessdeploymentbucket-19028ne1swny3',
+  'rhdtest-privilege-stagin-serverlessdeploymentbuck-32x12ta9db79',
+  'rhdtest-storage-dev-serverlessdeploymentbucket-gpi985lx0psn'
+]
+WIll delete  rhdtest-cognito-counselo-serverlessdeploymentbuck-bptlpzxaca1b serverless/rhdtest-cognito-counselor/dev/1587700463618-2020-04-24T03:54:23.618Z/compiled-cloudformation-template.json
+WIll delete  rhdtest-cognito-counselo-serverlessdeploymentbuck-bptlpzxaca1b serverless/rhdtest-cognito-counselor/dev/1587700463618-2020-04-24T03:54:23.618Z/rhdtest-cognito-counselor.zip
+Will delete bucket rhdtest-cognito-counselo-serverlessdeploymentbuck-bptlpzxaca1b
+WIll delete  rhdtest-cognito-privileg-serverlessdeploymentbuck-15d9yefi9sv4q serverless/rhdtest-cognito-privilege/dev/1587753479340-2020-04-24T18:37:59.340Z/compiled-cloudformation-template.json
+WIll delete  rhdtest-cognito-privileg-serverlessdeploymentbuck-15d9yefi9sv4q serverless/rhdtest-cognito-privilege/dev/1587753479340-2020-04-24T18:37:59.340Z/rhdtest-cognito-privilege.zip
+Will delete bucket rhdtest-cognito-privileg-serverlessdeploymentbuck-15d9yefi9sv4q
+WIll delete  rhdtest-counselor-dev-serverlessdeploymentbucket-zu3834om6r9u serverless/rhdtest-counselor/dev/1587751094324-2020-04-24T17:58:14.324Z/compiled-cloudformation-template.json
+WIll delete  rhdtest-counselor-dev-serverlessdeploymentbucket-zu3834om6r9u serverless/rhdtest-counselor/dev/1587751094324-2020-04-24T17:58:14.324Z/rhdtest-counselor.zip
+WIll delete  rhdtest-counselor-dev-serverlessdeploymentbucket-zu3834om6r9u serverless/rhdtest-counselor/dev/1587751660112-2020-04-24T18:07:40.112Z/compiled-cloudformation-template.json
+WIll delete  rhdtest-counselor-dev-serverlessdeploymentbucket-zu3834om6r9u serverless/rhdtest-counselor/dev/1587751660112-2020-04-24T18:07:40.112Z/rhdtest-counselor.zip
+WIll delete  rhdtest-counselor-dev-serverlessdeploymentbucket-zu3834om6r9u serverless/rhdtest-counselor/dev/1587752007613-2020-04-24T18:13:27.613Z/compiled-cloudformation-template.json
+WIll delete  rhdtest-counselor-dev-serverlessdeploymentbucket-zu3834om6r9u serverless/rhdtest-counselor/dev/1587752007613-2020-04-24T18:13:27.613Z/rhdtest-counselor.zip
+WIll delete  rhdtest-counselor-dev-serverlessdeploymentbucket-zu3834om6r9u serverless/rhdtest-counselor/dev/1587752400742-2020-04-24T18:20:00.742Z/compiled-cloudformation-template.json
+WIll delete  rhdtest-counselor-dev-serverlessdeploymentbucket-zu3834om6r9u serverless/rhdtest-counselor/dev/1587752400742-2020-04-24T18:20:00.742Z/rhdtest-counselor.zip
+WIll delete  rhdtest-counselor-dev-serverlessdeploymentbucket-zu3834om6r9u serverless/rhdtest-counselor/dev/1587755259431-2020-04-24T19:07:39.431Z/compiled-cloudformation-template.json
+WIll delete  rhdtest-counselor-dev-serverlessdeploymentbucket-zu3834om6r9u serverless/rhdtest-counselor/dev/1587755259431-2020-04-24T19:07:39.431Z/rhdtest-counselor.zip
+Will delete bucket rhdtest-counselor-dev-serverlessdeploymentbucket-zu3834om6r9u
+WIll delete  rhdtest-privilege-dev-serverlessdeploymentbucket-19028ne1swny3 serverless/rhdtest-privilege/dev/1587755006079-2020-04-24T19:03:26.079Z/compiled-cloudformation-template.json
+WIll delete  rhdtest-privilege-dev-serverlessdeploymentbucket-19028ne1swny3 serverless/rhdtest-privilege/dev/1587755006079-2020-04-24T19:03:26.079Z/rhdtest-privilege.zip
+Will delete bucket rhdtest-privilege-dev-serverlessdeploymentbucket-19028ne1swny3
+WIll delete  rhdtest-privilege-stagin-serverlessdeploymentbuck-32x12ta9db79 serverless/rhdtest-privilege/staging/1587759256345-2020-04-24T20:14:16.345Z/compiled-cloudformation-template.json
+WIll delete  rhdtest-privilege-stagin-serverlessdeploymentbuck-32x12ta9db79 serverless/rhdtest-privilege/staging/1587759256345-2020-04-24T20:14:16.345Z/rhdtest-privilege.zip
+WIll delete  rhdtest-privilege-stagin-serverlessdeploymentbuck-32x12ta9db79 serverless/rhdtest-privilege/staging/1587760086541-2020-04-24T20:28:06.541Z/compiled-cloudformation-template.json
+WIll delete  rhdtest-privilege-stagin-serverlessdeploymentbuck-32x12ta9db79 serverless/rhdtest-privilege/staging/1587760086541-2020-04-24T20:28:06.541Z/rhdtest-privilege.zip
+Will delete bucket rhdtest-privilege-stagin-serverlessdeploymentbuck-32x12ta9db79
+WIll delete  rhdtest-storage-dev-serverlessdeploymentbucket-gpi985lx0psn serverless/rhdtest-storage/dev/1587695597555-2020-04-24T02:33:17.555Z/compiled-cloudformation-template.json
+WIll delete  rhdtest-storage-dev-serverlessdeploymentbucket-gpi985lx0psn serverless/rhdtest-storage/dev/1587755226418-2020-04-24T19:07:06.418Z/compiled-cloudformation-template.json
+Will delete bucket rhdtest-storage-dev-serverlessdeploymentbucket-gpi985lx0psn
+I will get rid of these stacks [
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/rhdtest-privilege-staging/2c8fbe00-8668-11ea-89fb-0e3b177c99d5',
+    StackName: 'rhdtest-privilege-staging',
+    TemplateDescription: 'Privilege GraphQL Backend',
+    CreationTime: 2020-04-24T20:14:17.118Z,
+    LastUpdatedTime: 2020-04-24T20:28:17.352Z,
+    DeletionTime: 2020-04-28T03:18:07.184Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  },
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/rhdtest-privilege-dev/4731b830-865e-11ea-8aa0-12695902b27f',
+    StackName: 'rhdtest-privilege-dev',
+    TemplateDescription: 'The AWS CloudFormation template for this Serverless application',
+    CreationTime: 2020-04-24T19:03:26.829Z,
+    LastUpdatedTime: 2020-04-24T19:04:13.691Z,
+    DeletionTime: 2020-04-28T03:18:12.537Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  },
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/rhdtest-cognito-privilege-dev/b92d6500-865a-11ea-bd88-0ad9172a6ca8',
+    StackName: 'rhdtest-cognito-privilege-dev',
+    TemplateDescription: 'Cognito Resources For Privilege',
+    CreationTime: 2020-04-24T18:38:00.081Z,
+    LastUpdatedTime: 2020-04-24T18:38:46.901Z,
+    DeletionTime: 2020-04-28T03:18:19.668Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  },
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/rhdtest-counselor-dev/bf2254b0-85e3-11ea-93e2-0eac0ccc6c9d',
+    StackName: 'rhdtest-counselor-dev',
+    TemplateDescription: 'Counselor GraphQL backend',
+    CreationTime: 2020-04-24T04:26:19.973Z,
+    LastUpdatedTime: 2020-04-24T19:07:51.573Z,
+    DeletionTime: 2020-04-28T03:18:25.419Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  },
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/rhdtest-cognito-counselor-dev/495a3030-85df-11ea-a4de-1220c9cd2399',
+    StackName: 'rhdtest-cognito-counselor-dev',
+    TemplateDescription: 'Cognito Resources For Counselor',
+    CreationTime: 2020-04-24T03:54:24.363Z,
+    LastUpdatedTime: 2020-04-24T03:55:04.309Z,
+    DeletionTime: 2020-04-28T03:18:30.855Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  },
+  {
+    StackId: 'arn:aws:cloudformation:us-east-1:210049126456:stack/rhdtest-storage-dev/4cbccf10-85d2-11ea-83bd-0e6b90c5010d',
+    StackName: 'rhdtest-storage-dev',
+    TemplateDescription: 'DDB and Cognito Resources',
+    CreationTime: 2020-04-24T02:21:26.569Z,
+    LastUpdatedTime: 2020-04-24T02:33:20.328Z,
+    DeletionTime: 2020-04-28T03:18:36.122Z,
+    StackStatus: 'DELETE_FAILED',
+    StackStatusReason: 'The following resource(s) failed to delete: [ServerlessDeploymentBucket]. ',
+    DriftInformation: { StackDriftStatus: 'NOT_CHECKED' }
+  }
+]
+output for deleting rhdtest-privilege-staging is  {
+  ResponseMetadata: { RequestId: '75ed1fcd-6bd8-4d1a-8208-7b9402cdee58' }
+}
+output for deleting rhdtest-privilege-dev is  {
+  ResponseMetadata: { RequestId: '607b9f08-28a7-49cf-afa0-77d941625e50' }
+}
+output for deleting rhdtest-cognito-privilege-dev is  {
+  ResponseMetadata: { RequestId: '46fb8040-a6d6-4893-bd43-50347e59e036' }
+}
+output for deleting rhdtest-counselor-dev is  {
+  ResponseMetadata: { RequestId: '9f7f6e0a-80e0-4946-8a22-92b4ee72a553' }
+}
+output for deleting rhdtest-cognito-counselor-dev is  {
+  ResponseMetadata: { RequestId: '7e57cc72-2849-438c-acf3-e8786375e67b' }
+}
+output for deleting rhdtest-storage-dev is  {
+  ResponseMetadata: { RequestId: 'ce59962d-d0ef-47dc-8af8-707df1ac0590' }
+}
+Finished as of 2020-05-17T01:12:03.416Z
+Took ms:  14664
